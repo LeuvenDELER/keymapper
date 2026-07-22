@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KeyMapper Panel</string>
+    <string name="admin_panel_title">Admin Panel — Tuş Eşlemeleri</string>
+    <string name="add_edit_title">Config Ekle / Düzenle</string>
+    <string name="open_accessibility_settings">Erişilebilirlik Ayarlarını Aç (servisi etkinleştir)</string>
+    <string name="no_mappings_yet">Henüz config eklenmedi. + butonuna basarak başla.</string>
+    <string name="add_mapping">Config Ekle</string>
+    <string name="edit">Düzenle</string>
+    <string name="delete">Sil</string>
+    <string name="step_1_capture_key">1) Tuşu Yakala</string>
+    <string name="step_2_choose_action">2) Aksiyon Seç</string>
+    <string name="capture_key_button">Tuş Yakalamayı Başlat</string>
+    <string name="extra_param_hint">Paket adı / URL / X,Y koordinatı (gerekiyorsa)</string>
+    <string name="save_config">Config\'i Kaydet</string>
+    <string name="accessibility_service_description">Fiziksel tuşları yakalayıp admin panelde tanımladığın aksiyonları çalıştırır.</string>
+</resources>
